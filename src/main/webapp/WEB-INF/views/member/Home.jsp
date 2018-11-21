@@ -199,7 +199,7 @@
 							<div class="offer-box">
 								<i class="fa fa-search-plus"></i>
 								<h5>Tra Đơn Thuốc</h5>
-								<p>Kho dữ liệu thông tin về các loại thuốc.</p>
+								<p>Tra thông tin dữ liệu về tất cả các loại thuốc.</p>
 								<a href="MedicamentGroup" title="Tra Cứu Ngay !">Tra Cứu Ngay !</a>
 							</div>
 						</div>
